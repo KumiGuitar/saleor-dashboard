@@ -17,7 +17,7 @@ const useStyles = makeStyles(
       marginBottom: theme.spacing(2),
     },
     link: {
-      color: theme.palette.primary.main,
+      color: "#F28C28",
       cursor: "pointer",
       display: "block",
       margin: theme.spacing(2, 0),
@@ -32,6 +32,7 @@ const useStyles = makeStyles(
     },
     loginButton: {
       width: "100%",
+      backgroundColor: "#F28C28"
     },
     panel: {
       "& span": {
